@@ -1,4 +1,4 @@
-## Hi there 👋 I am ; Entrepreneurial, Curiousity , Start-up Culture
+## Hi there 👋 I am ; Entrepreneurial, Curious, Start-up Culture
 I do
   - Backend development
   - Full-stack Development
