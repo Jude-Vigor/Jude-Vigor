@@ -1,8 +1,8 @@
 ## Hi there 👋 I am ; Entrepreneurial, Curious, Start-up Culture
 I do
-  - Backend development
+  - Backend development + AI Integration
   - Full-stack Development
-  - Cloud Engineering
+  
     
 
 
