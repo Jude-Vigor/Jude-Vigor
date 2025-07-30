@@ -1,4 +1,9 @@
 ## Hi there 👋
+I do
+  - Backend development
+  - Full-stack Development
+  - Cloud Engineering
+Entrepreneurial, Curiousity , Start-up Culture
 
 <!--
 **Jude-Vigor/Jude-Vigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
