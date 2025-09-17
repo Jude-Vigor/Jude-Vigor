@@ -1,6 +1,6 @@
-## Hi there 👋 I am ; Entrepreneurial, Curious, Start-up Culture
+## Hi there 👋 I am Curious, Start-up Culture
 I do
-  - Backend development + AI Integration
+  - Backend Engineering + AI Integration
   - Full-stack Development
   
     
