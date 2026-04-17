@@ -1,4 +1,4 @@
-# Tetteh-fio Jude Boateng (Jude Vigor)
+# Tetteh-fio Jude Boateng 
 
 Backend Engineer building reliable systems with Python.
 
