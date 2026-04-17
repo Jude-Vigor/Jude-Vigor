@@ -1,7 +1,7 @@
 # Tetteh-fio Jude Boateng 
 
-Backend Engineer building reliable systems with Python.
-
+Backend Engineer building production systems with Python.
+Focused on APIs, reliability, and real-world problem solving.
 ---
 
 ## What I do
