@@ -8,8 +8,8 @@ Focused on APIs, reliability, and real-world problem solving.
 
 - Design and build REST APIs  
 - Work with payments, webhooks, and async workflows  
-- Integrate third-party APIs into production systems  
-- Focus on reliability, performance, and real-world usage  
+- Integrate AI + third-party APIs into production systems  
+- Focus on Scalable system designs, reliability, performance, and real-world usage  
 
 ---
 
