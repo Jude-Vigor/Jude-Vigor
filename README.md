@@ -1,7 +1,7 @@
 # Tetteh-fio Jude Boateng 
 
 Backend Engineer building production systems with Python.
-Focused on APIs, Security , Reliability, Scalability + AI automation
+Focused on APIs, Security , Reliability, Scalability + AI automation.
 Great team player and ownership oriented.
 ---
 
