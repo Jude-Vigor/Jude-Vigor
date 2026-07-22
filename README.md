@@ -1,56 +1,61 @@
-# Tetteh-fio Jude Boateng 
+# Tetteh-fio Jude Boateng
 
-Backend Engineer building intelligent production systems with Python.
-Focused on APIs, Security , Reliability, Scalability + AI automation.
-Great team player and ownership oriented.
----
+Backend Engineer with a clinical background in Emergency Nursing and experience building products for healthcare and education. Creator of Nexa-RN, a licensure preparation platform serving 1,000+ student nurses in Ghana.
 
-## What I do
-
-- Design and build REST APIs  
-- Work with payments, webhooks, and async workflows  
-- Integrate AI + third-party APIs into production systems  
-- Focus on Scalable system designs, reliability, performance, and real-world usage  
+I enjoy turning real-world problems into software products and building reliable backend systems that can scale from idea to production.
 
 ---
 
-## Selected Work
+## What I Build
 
-**Payment & Service Delivery System**  
-Backend system for processing payments and automatically fulfilling services.  
-- Flask, Paystack API, REST  
-- Webhook verification (HMAC)  
-- Async processing + retry logic  
-- Used in Nexa-RN (800+ users)
-
-**FastAPI Task API**  
-Structured API with validation and clean architecture.  
-- Pydantic schemas, response models  
-- Centralized error handling  
-- Route → Service structure  
-
-**Nexa-RN** *(Founder / Product)*  
-Exam prep platform for nursing students in Ghana.  
-- 800+ users  
-- Led product design and system direction  
+* Backend systems with Python, FastAPI, Flask, and PostgreSQL
+* Payment and service fulfillment workflows
+* REST APIs and third-party integrations
+* Authentication, authorization, and data-driven applications
+* Healthcare and education technology products
 
 ---
 
-## Tech
+## Selected Projects
 
-Python · Flask · FastAPI · SQL · PostgreSQL  
-APIs · Webhooks · Async Processing · System Design  
-AWS · Railway · Git  
+### Nexa-RN
+
+Licensure preparation platform for nursing students in Ghana.
+
+* Serving 1,000+ student nurses
+* Built backend services for authentication, quizzes, scoring, and progress tracking
+* Designed PostgreSQL data models and API architecture
+* Led product direction and technical implementation
+
+### DataNet
+
+Automated payment and internet bundle fulfillment platform.
+
+* Integrated Paystack payment processing
+* Implemented webhook verification and idempotency protection
+* Built transaction verification and fulfillment workflows
+* Designed backend services using Flask and PostgreSQL
 
 ---
 
-## Focus
+## Tech Stack
 
-Building backend systems that work reliably in production.
+Python • FastAPI • Flask • PostgreSQL • SQL
+
+REST APIs • Webhooks • Authentication • Docker • Git
+
+AWS • Render
+
+---
+
+## Current Focus
+
+Building production-ready backend systems and contributing to startups solving meaningful problems in healthcare, education, and emerging markets.
 
 ---
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/tettehfiojude/  
-Email: jvigor10@gmail.com
+LinkedIn: linkedin.com/in/tettehfiojude
+
+Email: [jvigor10@gmail.com](mailto:jvigor10@gmail.com)
