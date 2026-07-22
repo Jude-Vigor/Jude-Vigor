@@ -1,18 +1,18 @@
 # Tetteh-fio Jude Boateng
 
-Backend Engineer with a clinical background in Emergency Nursing and experience building products for healthcare and education. Creator of Nexa-RN, a licensure preparation platform serving 1,000+ student nurses in Ghana.
+Backend Engineer with a background in Emergency Nursing. I build backend systems for healthcare and education products, with experience developing APIs, payment integrations, and data-driven applications.
 
-I enjoy turning real-world problems into software products and building reliable backend systems that can scale from idea to production.
+Currently focused on Python, FastAPI, PostgreSQL, cloud technologies, and building products that solve real-world problems.
 
 ---
 
 ## What I Build
 
-* Backend systems with Python, FastAPI, Flask, and PostgreSQL
+* REST APIs and backend services
+* Authentication and user management systems
 * Payment and service fulfillment workflows
-* REST APIs and third-party integrations
-* Authentication, authorization, and data-driven applications
-* Healthcare and education technology products
+* Quiz, assessment, and progress tracking systems
+* Third-party API integrations
 
 ---
 
@@ -22,35 +22,34 @@ I enjoy turning real-world problems into software products and building reliable
 
 Licensure preparation platform for nursing students in Ghana.
 
-* Serving 1,000+ student nurses
-* Built backend services for authentication, quizzes, scoring, and progress tracking
-* Designed PostgreSQL data models and API architecture
-* Led product direction and technical implementation
+* Built backend services for authentication, quizzes, scoring, and student progress tracking
+* Designed PostgreSQL database schemas and API architecture
+* Supported a platform serving 1,000+ student nurses
 
 ### DataNet
 
 Automated payment and internet bundle fulfillment platform.
 
 * Integrated Paystack payment processing
-* Implemented webhook verification and idempotency protection
-* Built transaction verification and fulfillment workflows
-* Designed backend services using Flask and PostgreSQL
+* Implemented webhook verification and idempotent transaction handling
+* Built APIs for payment verification and service delivery
+* Developed with Flask and PostgreSQL
 
 ---
 
 ## Tech Stack
 
-Python • FastAPI • Flask • PostgreSQL • SQL
+**Backend:** Python · Flask · FastAPI · PostgreSQL
 
-REST APIs • Webhooks • Authentication • Docker • Git
+**Engineering:** REST APIs · Authentication · Webhooks · Docker · Git · Testing
 
-AWS • Render
+**Cloud & Deployment:** AWS · Render
 
 ---
 
 ## Current Focus
 
-Building production-ready backend systems and contributing to startups solving meaningful problems in healthcare, education, and emerging markets.
+Building reliable backend systems and contributing to startups solving problems in healthcare, education, and emerging markets.
 
 ---
 
