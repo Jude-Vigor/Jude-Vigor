@@ -1,60 +1,32 @@
-# Tetteh-fio Jude Boateng
+# Hi, I'm Jude 👋
 
-Backend Engineer with a background in Emergency Nursing. I build backend systems for healthcare and education products, with experience developing APIs, payment integrations, and data-driven applications.
+Backend Software Engineer focused on building APIs, backend services, and data-driven applications.
 
-Currently focused on Python, FastAPI, PostgreSQL, cloud technologies, and building products that solve real-world problems.
+I work primarily with **Python, FastAPI, Flask, PostgreSQL, and Docker**, and enjoy taking products from idea to implementation. My experience includes backend architecture, authentication systems, database design, payment integrations, and API development.
 
----
+### What I've Built
 
-## What I Build
+🚀 **Nexa-RN**
+Contributed to building a nursing licensure preparation platform serving **1,060+ student nurses in Ghana**, developing backend systems for authentication, assessments, and student progress tracking.
 
-* REST APIs and backend services
-* Authentication and user management systems
-* Payment and service fulfillment workflows
-* Quiz, assessment, and progress tracking systems
-* Third-party API integrations
+💳 **DataNet**
+Built a payment and service delivery platform with Paystack integration, webhook processing, transaction verification, and automated fulfilment workflows.
 
----
+### Current Focus
 
-## Selected Projects
+* Backend Engineering
+* AI-Integrated Software Development
+* System Design
+* Cloud & DevOps
+* Building scalable products that solve real-world problems
 
-### Nexa-RN
+### Tech Stack
 
-Licensure preparation platform for nursing students in Ghana.
+**Backend:** Python, FastAPI, Flask
+**Database:** PostgreSQL, SQLAlchemy
+**DevOps:** Docker, Git
+**Tools:** Postman, Pytest, AI Development Tools
 
-* Built backend services for authentication, quizzes, scoring, and student progress tracking
-* Designed PostgreSQL database schemas and API architecture
-* Supported a platform serving 1,000+ student nurses
+### Beyond Code
 
-### DataNet
-
-Automated payment and internet bundle fulfillment platform.
-
-* Integrated Paystack payment processing
-* Implemented webhook verification and idempotent transaction handling
-* Built APIs for payment verification and service delivery
-* Developed with Flask and PostgreSQL
-
----
-
-## Tech Stack
-
-**Backend:** Python · Flask · FastAPI · PostgreSQL
-
-**Engineering:** REST APIs · Authentication · Webhooks · Docker · Git · Testing
-
-**Cloud & Deployment:** AWS · Render
-
----
-
-## Current Focus
-
-Building reliable backend systems and contributing to startups solving problems in healthcare, education, and emerging markets.
-
----
-
-## Contact
-
-LinkedIn: linkedin.com/in/tettehfiojude
-
-Email: [jvigor10@gmail.com](mailto:jvigor10@gmail.com)
+I'm naturally curious and enjoy learning through building. My interests span technology, startups, and financial markets.
