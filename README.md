@@ -1,32 +1,32 @@
 # Hi, I'm Jude 👋
 
-Backend Software Engineer focused on building APIs, backend services, and data-driven applications.
+**Backend Software Engineer** focused on building reliable APIs, backend systems, and AI-enabled applications.
 
-I work primarily with **Python, FastAPI, Flask, PostgreSQL, and Docker**, and enjoy taking products from idea to implementation. My experience includes backend architecture, authentication systems, database design, payment integrations, and API development.
+I primarily work with **Python, FastAPI, Flask, PostgreSQL, SQLAlchemy, and Docker**. I enjoy turning ideas into working products—from designing APIs and database architectures to implementing authentication, payment integrations, and business workflows.
 
 ### What I've Built
 
 🚀 **Nexa-RN**
-Contributed to building a nursing licensure preparation platform serving **1,060+ student nurses in Ghana**, developing backend systems for authentication, assessments, and student progress tracking.
+Built  a nursing licensure preparation platform serving **1,060+ student nurses in Ghana**, building backend functionality for authentication, assessments, and student progress tracking.
 
 💳 **DataNet**
-Built a payment and service delivery platform with Paystack integration, webhook processing, transaction verification, and automated fulfilment workflows.
+Built a payment and service-delivery platform integrating **Paystack**, including payment verification, webhook processing, idempotency, and automated fulfilment workflows.
 
-### Current Focus
+### Currently Exploring
 
-* Backend Engineering
-* AI-Integrated Software Development
-* System Design
+* Backend Engineering & System Design
+* AI-Integrated Applications
 * Cloud & DevOps
-* Building scalable products that solve real-world problems
+* Scalable API Architecture
+* Building technology that solves real-world problems
 
 ### Tech Stack
 
-**Backend:** Python, FastAPI, Flask
-**Database:** PostgreSQL, SQLAlchemy
-**DevOps:** Docker, Git
-**Tools:** Postman, Pytest, AI Development Tools
+**Backend:** Python · FastAPI · Flask
+**Database:** PostgreSQL · SQLAlchemy
+**DevOps:** Docker · Git
+**Tools:** Postman · Pytest · AI Development Tools
 
 ### Beyond Code
 
-I'm naturally curious and enjoy learning through building. My interests span technology, startups, and financial markets.
+I'm curious by nature and learn best by building. My interests extend beyond software into **startups, financial markets, and technology-driven businesses**. I enjoy exploring problems, learning new systems, and turning ideas into practical solutions.
