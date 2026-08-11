@@ -1,7 +1,6 @@
 # Hi, I'm Jude 👋
 
-**Backend Software Engineer** focused on building reliable APIs, backend systems, and AI-enabled applications.
-
+**Backend Software Engineer| AI and Automations** 
 I primarily work with **Python, FastAPI, Flask, PostgreSQL, SQLAlchemy, and Docker**. I enjoy turning ideas into working products—from designing APIs and database architectures to implementing authentication, payment integrations, and business workflows.
 
 ### What I've Built
