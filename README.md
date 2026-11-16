@@ -1,6 +1,6 @@
 # Hi, I'm Jude 👋
 
-**Backend Software Engineer| AI and Automations** 
+**Backend Software Engineer|  
 I primarily work with **Python, FastAPI, Flask, PostgreSQL, SQLAlchemy, and Docker**. I enjoy turning ideas into working products—from designing APIs and database architectures to implementing authentication, payment integrations, and business workflows.
 
 ### What I've Built
@@ -15,9 +15,7 @@ Built a payment and service-delivery platform integrating **Paystack**, includin
 
 * Backend Engineering & System Design
 * AI-Integrated Applications
-* Cloud & DevOps
 * Scalable API Architecture
-* Building technology that solves real-world problems
 
 ### Tech Stack
 
@@ -28,4 +26,4 @@ Built a payment and service-delivery platform integrating **Paystack**, includin
 
 ### Beyond Code
 
-I'm curious by nature and learn best by building. My interests extend beyond software into **startups, financial markets, and technology-driven businesses**. I enjoy exploring problems, learning new systems, and turning ideas into practical solutions.
+Aside tech, You'll find me exploring the financial markets.
